@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u=";
+const ProxyApi = "https://worker-orange-butterfly-ec66.peaceful-wolf.workers.dev/?u=";
 const IndexApi = "/home";
 const recentapi = "/recent/";
 
